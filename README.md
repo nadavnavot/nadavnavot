@@ -1,4 +1,4 @@
-# Hi there
+# Frontend Developer | Blending Code & Design for Impact
 
 ## 💡 About me
 
