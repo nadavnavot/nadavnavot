@@ -1,12 +1,11 @@
 # Hi there 👋 I'm Nadav
 
-## 💡 Who I Am
+## 💡 About me
 
 - 🎨 Frontend Developer who loves crafting beautiful user experiences  
 - 🚀 Passionate about **building seamless digital products** and exploring **full-stack development**  
 - 💡 Digital Product specialist with a creative tech background  
 - 🎨 **Turning complex ideas into beautiful interfaces**  
-- 🌅 **Exploring new places and cultures**  
 - 🤝 Enjoy collaborating with passionate people and learning new technologies  
 - ⚡ **Fun fact:** When I'm stuck, the solution often hits me while cooking or playing on my guitar—creative thinking can strike at the most unexpected moments.
 
