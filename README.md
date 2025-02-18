@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Nadav
+# Hi there
 
 ## 💡 About me
 
