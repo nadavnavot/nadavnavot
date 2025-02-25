@@ -1,4 +1,4 @@
-# Full-Stack Developer Specializing in Frontend
+# Fullstack Developer Specializing in Frontend
 
 ## 💡 About me
 
