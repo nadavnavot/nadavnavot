@@ -1,4 +1,4 @@
-# Fullstack Developer Specializing in Frontend
+# Fullstack Developer Specializing in Frontend & UI/UX Design
 
 ## 💡 About me
 
